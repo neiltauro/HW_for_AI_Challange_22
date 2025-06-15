@@ -80,11 +80,4 @@ Overall, I think neuromorphic computing is poised to become a powerful tool for 
 
 This is a very **exciting moment for neuromorphic computing**, a moment where innovations at both the algorithm and hardware level can enable us to move toward **truly brain-like computing structures**. The future will be collaborative, requiring multidisciplinary teams — chip designers, algorithm innovators, data engineers, and neuroscience experts — to collectively solve these problems.
 
----
 
-✨ If you'd like, I can package this together with:
-- An example project directory structure
-- A PNG infographic comparing the chips
-- A small script or notebook demonstrating event-based processing
-
-✅ Just let me know!  
